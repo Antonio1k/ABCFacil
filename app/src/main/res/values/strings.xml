@@ -1,6 +1,18 @@
 <resources>
     <string name="app_name">ABC Fácil</string>
 
-    <string name="hello_world">Hola mundo!</string>
+
+    <!-- menú principal -->
+    <string name="btn_play">Jugar</string>
+    <string name="btn_options">Opciones</string>
+    <string name="btn_about">Acerca de...</string>
+
+
+
+
+    <string name="choose_level">Elige un nivel:</string>
     <string name="action_settings">Opciones</string>
+    <string name="title_activity_opciones">Opciones</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>
