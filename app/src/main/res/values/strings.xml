@@ -2,17 +2,37 @@
     <string name="app_name">ABC Fácil</string>
 
 
-    <!-- menú principal -->
-    <string name="btn_play">Jugar</string>
-    <string name="btn_options">Opciones</string>
-    <string name="btn_about">Acerca de...</string>
+    <!-- menús, etc -->
+    <string name="caption_play">Jugar</string>
+    <string name="caption_options">Opciones</string>
+    <string name="caption_about">Acerca de...</string>
+    <string name="caption_about_description1">"Descripción1</string>
+    <string name="caption_about_description2">"Descripción2</string>
+    <string name="caption_about_description3">"Descripción3</string>
+
+    <!-- Nombres de actividades -->
+    <string name="caption_choose_activity">Elige una actividad</string>
+
+    <string name="caption_activ_vox">Vocales</string>
+    <string name="caption_activ_num">Números</string>
+    <string name="caption_activ_vox_A">Letra A</string>
+    <string name="caption_activ_vox_E">Letra E</string>
+    <string name="caption_activ_vox_I">Letra I</string>
+    <string name="caption_activ_vox_O">Letra O</string>
+    <string name="caption_activ_vox_U">Letra U</string>
+    <string name="caption_activ_n1">Número 1</string>
+    <string name="caption_activ_n2">Número 2</string>
+    <string name="caption_activ_n3">Número 3</string>
+    <string name="caption_activ_n4">Número 4</string>
+    <string name="caption_activ_n5">Número 5</string>
+    <string name="caption_activ_n6">Número 6</string>
+    <string name="caption_activ_n7">Número 7</string>
+    <string name="caption_activ_n8">Número 8</string>
+    <string name="caption_activ_n9">Número 9</string>
+    <string name="caption_activ_n10">Número 10</string>
 
 
 
-
-    <string name="choose_level">Elige un nivel:</string>
     <string name="action_settings">Opciones</string>
     <string name="title_activity_opciones">Opciones</string>
-
-    <string name="hello_world">Hello world!</string>
 </resources>
