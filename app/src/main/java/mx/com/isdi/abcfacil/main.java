@@ -13,7 +13,7 @@ import android.view.View;
 public class main extends Activity {
 
     public void OpenOptionsActivity(View v){
-        Intent ShowOpciones = new Intent(main.this, opciones.class);
+        Intent ShowOpciones = new Intent(main.this, GIFtest.class);
         startActivity(ShowOpciones);
     }
 

@@ -41,6 +41,10 @@
             android:name=".listaVocales"
             android:label="@string/title_activity_lista_vocales" >
         </activity>
+        <activity
+            android:name=".GIFtest"
+            android:label="@string/title_activity_giftest" >
+        </activity>
     </application>
 
 </manifest>
