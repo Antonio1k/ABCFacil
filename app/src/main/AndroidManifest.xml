@@ -26,8 +26,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Opciones"
+            android:name=".opciones"
             android:label="@string/title_activity_opciones" >
+        </activity>
+        <activity
+            android:name=".VocalNumeroActivity"
+            android:label="@string/title_activity_vocal_numero" >
+        </activity>
+        <activity
+            android:name=".listaNumeros"
+            android:label="@string/title_activity_lista_numeros" >
+        </activity>
+        <activity
+            android:name=".listaVocales"
+            android:label="@string/title_activity_lista_vocales" >
         </activity>
     </application>
 

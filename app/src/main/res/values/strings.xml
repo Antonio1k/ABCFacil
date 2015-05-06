@@ -35,4 +35,9 @@
 
     <string name="action_settings">Opciones</string>
     <string name="title_activity_opciones">Opciones</string>
+    <string name="title_activity_vocal_numero">VocalNumeroActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_lista_numeros">listaNumeros</string>
+    <string name="title_activity_lista_vocales">listaVocales</string>
 </resources>
